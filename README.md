@@ -1,5 +1,5 @@
 # Genesis
 A JavaScript project
 
-#SweetAlert
+# SweetAlert
 npm install --save sweetalert2
